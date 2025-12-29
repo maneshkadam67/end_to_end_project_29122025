@@ -1,5 +1,5 @@
 pytest
 pytest-rerunfailures
-pytest-xdistq
+pytest-xdist
 
 
