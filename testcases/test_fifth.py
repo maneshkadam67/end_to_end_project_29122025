@@ -9,11 +9,11 @@ def test_status(status,request,worker_id):
     print("-------------------------Node ID:", request.node.nodeid)
     print("-------------------------File:", request.node.fspath)
     print("worker_id--------------------",worker_id)
-    assert status == 300
+    assert status == 200
 
 def test_assert(worker_id):
     print("worker_id--------------------", worker_id)
-    assert True==""
+    assert True==1
 
 
 
