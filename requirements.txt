@@ -2,5 +2,6 @@ pytest
 pytest-rerunfailures
 pytest-xdist
 pytest-html
+allure-pytest
 
 
